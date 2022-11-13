@@ -10,7 +10,6 @@ public class 第一 { public int[] twoSum(int[] nums, int target) {
             }
         }
     }
-    // System.out.println(result[0]+""+result[1]);
     return result;
 }
 }
